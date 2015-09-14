@@ -1,0 +1,74 @@
+[
+	{
+		"task_id" : 1, 
+		"parent_task" : null,
+		"child_tasks" : null,
+		"title" : "Sign Lease",
+		"notes" : null,
+		"due_date" : "month_before",
+		"done" : false
+	},
+	{
+		"task_id" : 2, 
+		"parent_task" : null,
+		"child_tasks" : null,
+		"title" : "Finish packing all my stuff",
+		"notes" : null,
+		"due_date" : "day_before",
+		"done" : false
+	},
+	{
+		"task_id" : 3, 
+		"parent_task" : null,
+		"child_tasks" : null,
+		"title" : "Finish unpacking all my stuff",
+		"notes" : null,
+		"due_date" : "month_after",
+		"done" : false
+	},
+	{
+		"task_id" : 4, 
+		"parent_task" : null,
+		"child_tasks" : null,
+		"title" : "Hire Movers",
+		"notes" : null,
+		"due_date" : "month_before",
+		"done" : false
+	},
+	{
+		"task_id" : 5, 
+		"parent_task" : null,
+		"child_tasks" : null,
+		"title" : "Buy boxes",
+		"notes" : null,
+		"due_date" : "week_before",
+		"done" : false
+	},
+	{
+		"task_id" : 6, 
+		"parent_task" : null,
+		"child_tasks" : null,
+		"title" : "Buy groceries",
+		"notes" : null,
+		"due_date" : "day_after",
+		"done" : false
+	},
+	{
+		"task_id" : 7, 
+		"parent_task" : null,
+		"child_tasks" : null,
+		"title" : "Set up utilities at new place",
+		"notes" : null,
+		"due_date" : "week_before",
+		"done" : false
+	},
+	{
+		"task_id" : 8, 
+		"parent_task" : null,
+		"child_tasks" : null,
+		"title" : "Stop utilities at old place",
+		"notes" : null,
+		"due_date" : "week_after",
+		"done" : false
+	},
+]
