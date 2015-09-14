@@ -164,6 +164,7 @@ extension MasterViewController : UITableViewDataSource {
     let cell = tableView.dequeueReusableCellWithIdentifier(TaskTableViewCell.cellIdentifierFromClassName(), forIndexPath: indexPath) as! TaskTableViewCell
     let task = taskForIndexPath(indexPath)
     cell.configureForTask(task)
+    cell.delegate = self
     
     return cell
   }
